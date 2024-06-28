@@ -1,0 +1,25 @@
+path: Z:/aaa/data_6/
+
+train: train
+val: val
+test: test
+
+names:
+  0: ChouZhi
+  1: JuanZhi
+  2: XiangZao
+  3: XiShouYe
+  4: GuanZhuangZhou
+  5: KouXiangTang
+  6: FangBianMian
+  7: ShuPian
+  8: GuanZhuangYinLiao
+  9: PingZhuangYinLiao
+  10: NiuNai
+  11: PingZhuangYinYongShui
+  12: PingGuo
+  13: Li
+  14: XiangJiao
+  15: MiHouTao
+  16: JuZi
+  17: YiJia
